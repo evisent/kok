@@ -1,1 +1,3 @@
-some text (artyom's text)
+some text
+
+edit by #4
